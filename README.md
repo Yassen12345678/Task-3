@@ -1,4 +1,4 @@
-# 3D Medical Image Viewer
+# 3D Medical Image Viewer.
 
 A comprehensive, interactive 3D medical imaging application built with PyQt5 and VisPy. This tool provides advanced visualization capabilities for medical images, 3D meshes, and supports multi-planar reconstruction (MPR) with curved path generation.
 
